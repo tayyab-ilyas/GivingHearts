@@ -1,3 +1,3 @@
-# web-dev
+# Hackathon Project
 
-Building Personal site while learning web dev.
+This repo includes the hackathon Project created by Musharraf, Ali & Tayyab
