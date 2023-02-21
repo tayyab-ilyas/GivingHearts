@@ -1,0 +1,51 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding:0;
+    overflow: hidden;
+    background-color: #579BB1;
+}
+li {
+    float: left;
+
+}
+li a{
+    display:block;
+    color:white;
+    text-align:center;
+    padding: 15px 15px;
+    text-decoration:none;
+    font-family: sans-serif;
+}
+
+li a:hoover{
+    background-color: #F8F4EA;
+}
+.nav-map a{
+
+}
+.nav-leaderboard a{
+    
+
+}
+.nav-signin a {
+    
+  
+
+}
+.nav-signup a{
+    
+
+}
+.nav-search input[type=text]{
+    font-size: 14px;
+    font-family: sans-serif;
+    
+    
+
+}
+.nav-search input[type=text]{
+    border: 1px solid #ccc;
+
+
+}
