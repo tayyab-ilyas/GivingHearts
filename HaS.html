@@ -10,21 +10,31 @@
 </head>
 
 <body>
-    <strong>
-        <h1>Help and Support</h1>
-    </strong>
-
-    <h2>Hi, How we can help you</h2>
-    <br><br><br><br>
+    <header>
+        <a href="landing_page.html"><img height="35%" width="35%" class="logo" src="logo final.png" alt="logo"></a>
+        <nav>
+            <ul class="nav_links">
+                <li><a href="#">Map</a></li>
+                <li><a href="#">Leaderboard</a></li>
+                <li><a href="signup.html">Sign Up</a></li>
+    
+                
+    
+            </ul>
+        </nav>
+        <a class="cta" href="contact.html"><button>Contact</button></a>
+    </header>
+        <h1>Help & Support</h1>
 
     <form action="" method="post">
-        <label for="issue">Describe your issue</label><br>
-        <textarea name="" value="write something..." id="" cols="40" rows="8"
-            placeholder="Write something..."></textarea><br>
+        
+        <textarea id="subject" name="subject" placeholder="What can we do for you?"
+            style="height:170px"></textarea>
+        
 
 
     </form>
-    <button onclick="myFunction()">submit</button>
+    <button onclick="myFunction()">Submit</button>
 
     <script>
         function myFunction() {
