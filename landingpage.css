@@ -12,9 +12,9 @@ li, a, button{
 }
 header{
     display:flex;
-    justify-content:space-between;
+    justify-content:space-evenly;
     align-items:center;
-    padding:5px 15%;
+    padding:0px 0%;
     background-color: #579bb1;
 }
 
