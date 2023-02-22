@@ -5,13 +5,12 @@ body {
 
 
 input[type=email],
-input[type=password] {
+input[type=password],input[type=text] {
     width: 100%;
     padding: 15px;
     margin: 5px 0 22px 0;
     display: inline-block;
     border: none;
-    background: #f1f1f1;
 }
 
 input[type=text]:focus,
@@ -66,6 +65,7 @@ button:hover {
 
 .container {
     padding: 16px;
+    width: 40%;
 }
 
 
