@@ -15,7 +15,7 @@
 <li>Interactive map to find charitable organizations.</li>
 <li>Wide range of charitable organizations to choose from.</li>
 <li>Easy and simplified process of charity.</li>
-
+</ul>
 <h3>Technologies Used</h3>
 <ul>
 <li>HTML</li>
@@ -29,4 +29,4 @@
 <h3>Contributing</h3>
 <p>Contributions are always welcome! If you'd like to contribute to GivingHearts, please fork the repository and create a pull request.</p>
 <br><br>
-<p><em>This project was created by Binary Bandits (Musharraf, Ali & Tayyab) for a Vercera hackathon organized by AmuRoboClub.</em></p>
+<p><em>This project was created by Binary Bandits (Musharraf, Ali & Tayyab) for Vercera hackathon organized by AmuRoboClub.</em></p>
