@@ -126,7 +126,7 @@ body{
     background-color: #f2f1ec;
 }
 footer{
-    position:absolute;
+    position:relative;
     bottom:0;
     background: #1d4355;
     height: auto;
