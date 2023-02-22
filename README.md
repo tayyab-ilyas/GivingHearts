@@ -20,7 +20,7 @@
 <ul>
 <li>HTML</li>
 <li>CSS</li>
-</li>JavaScript</li>
+<li>JavaScript</li>
 </ul>
 
 <h3>Usage</h3>
@@ -28,5 +28,5 @@
 
 <h3>Contributing</h3>
 <p>Contributions are always welcome! If you'd like to contribute to GivingHearts, please fork the repository and create a pull request.</p>
-
+<br><br>
 <p><em>This project was created by Binary Bandits (Musharraf, Ali & Tayyab) for a Vercera hackathon organized by AmuRoboClub.</em></p>
