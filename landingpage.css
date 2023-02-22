@@ -4,6 +4,193 @@
     padding:0;
     background-color:;
 }
+
+body{
+    background-color: #f2f1ec;
+}
+li, a, button{
+    font-family: sans-serif;
+    font-size: 16px;
+    color:#F8F4EA;
+    text-decoration: none;
+}
+header{
+    display:flex;
+    justify-content:space-evenly;
+    align-items:center;
+    padding:0px 0%;
+    justify-content:space-between;
+    align-items:center;
+    padding:5px 15%;
+    background-color: #579bb1;
+}
+
+.logo{
+    cursor:pointer;
+}
+.nav_links{
+    list-style:none;
+}
+.nav_links li{
+    display:inline-block;
+    padding:0px 20px;
+}
+.nav_links li a{
+    transition all 0.3s ease 0s;
+}
+.nav_links li a:hover{
+    color:black;
+}
+button{
+    padding:9px 25px;
+    color: black;
+    background-color: #62ddd6;
+    border:none;
+    border-radius:50px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+
+
+}
+button:hover{
+    background-color: rgba(0, 136, 169, 0);
+
+}
+footer{
+    position:relative;
+    bottom:0;
+    background: #1d4355;
+    height: auto;
+    width:100vw;
+    font-family: sans-serif;
+    padding-top:5px;
+    color:#fff;
+}
+.footer-content{
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+.footer-content h3{
+    font-size: 1.8rem;
+    font-weight: 400;
+    text-transform:capitalize;
+    line-height:3rem;
+}
+.footer-content p{
+    max-width: 500px;
+    margin:10px auto;
+    line-height:28px;
+    font-size:14px;
+}
+.socials{
+    list-style:none;
+    display: flex;
+    align-items:center;
+    margin: 1rem 0 3rem 0;
+}
+.socials li{
+    margin:0 10px;
+}
+.socials a{
+    text-decoration:none;
+    color:#fff;
+}
+.socials a{
+    font-size: 1.1rem;
+    transition:color .4s ease;
+}
+.socials a:hover{
+    color:aqua;
+}
+.footer-bottom{
+    background: #1d4355;
+    width:100vw;
+    padding: 5px 0;
+    text-align: center;
+}
+.footer-bottom p{
+    font-size: 14px;
+    word-spacing: 2px;
+    text-transform:capitalize;
+}
+.footer-bottom span{
+    text-transform: uppercase;
+    opacity:0.4;
+    font-weight: 200;
+}
+svg{
+    fill:white;
+}
+
+.body{
+    padding-top: 3%;
+}
+
+
+
+.features{
+    position: relative;
+    width:30%;
+    text-align: center;
+}
+.feature{
+    margin-left: 10px;
+    font-family: sans-serif;
+    justify-content: left;
+    padding: 10px;
+
+}
+
+.row{
+    margin-top: 3%;
+    display: flex;
+    justify-content: space-around;
+    font-family: sans-serif;
+}
+.course-col{
+ flex-basis: 31%;
+ background: #62ddd6;
+ border-radius: 10px;
+ margin-bottom: 5%;
+ padding: 20px 12px;
+ box-sizing: border-box;
+ font-family: sans-serif;
+
+}
+
+.pro{
+
+    width:80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 5%;
+
+
+}
+
+.aboutus{
+    padding-top: 50px;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+#abtus{
+    text-align: center;
+    margin-left:30%;
+    margin-right: 30%;
+    font-size: large;
+    
+}
+=======
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+    background-color:;
+}
 li, a, button{
     font-family: sans-serif;
     font-size: 16px;
