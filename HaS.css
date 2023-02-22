@@ -109,8 +109,7 @@ body{
 }
 
 footer{
-    position:absolute;
-    bottom:0;
+    position:relative;
     background: #1d4355;
     height: auto;
     width:100vw;
