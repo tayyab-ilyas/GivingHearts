@@ -103,5 +103,7 @@ input[type=submit] {
 h1{
     padding:15px;
 }
-
+body{
+    background-color: #f2f1ec;
+}
 
