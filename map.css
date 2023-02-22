@@ -7,9 +7,9 @@ body {
     background-color:#3f7bbf;
 }
 svg path{
-    fill:#00394f;
-    stroke:#eee;
-    stroke-width: .25;
+    fill:white;
+    stroke:black;
+    stroke-width: .5;
 }
 svg path:hover{
     fill:#006284;
