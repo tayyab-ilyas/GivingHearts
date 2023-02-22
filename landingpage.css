@@ -149,6 +149,7 @@ svg{
     font-family: sans-serif;
 }
 .course-col{
+ background-color: #1d4355;
  flex-basis: 31%;
  color:#1d4355;
  background: #62ddd6;
@@ -157,6 +158,16 @@ svg{
  padding: 20px 12px;
  box-sizing: border-box;
  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;;
+
+}
+
+.course-col:hover{
+    box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.2);
+}
+@media(max-width: 700px){
+    .row{
+        flex-direction: column;
+    }
 
 }
 
