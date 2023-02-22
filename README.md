@@ -29,4 +29,4 @@
 <h3>Contributing</h3>
 <p>Contributions are always welcome! If you'd like to contribute to GivingHearts, please fork the repository and create a pull request.</p>
 <br><br>
-<p><em>This project was created by Binary Bandits (Musharraf, Ali & Tayyab) for Vercera hackathon organized by AmuRoboClub.</em></p>
+<p><em>This project was created by <strong>Binary Bandits (Musharraf, Ali & Tayyab)</strong> for the event 'Vercera' organized  by AmuRoboClub.</em></p>
