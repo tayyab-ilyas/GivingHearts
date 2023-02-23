@@ -11,7 +11,7 @@ li, a, button{
     text-decoration: none;
 }
 header{
-    position: absolute;
+    position: relative;
     display:flex;
     justify-content:space-between;
     align-items:center;
@@ -109,7 +109,7 @@ body{
 }
 
 footer{
-    position:relative;
+    position:absolute;
     background: #1d4355;
     height: auto;
     width:100vw;
