@@ -1,6 +1,8 @@
 # GivingHearts
 <p>GivingHearts is a website that aims to simplify the process of charity by providing a wide range of charitable organizations to choose from. It offers region-wise leaderboards of donors and an interactive map to find charitable organizations. With GivingHearts, users can make a difference by supporting a cause they care about.</p>
 
+See the presentation <a href="https://www.canva.com/design/DAFbCJWQ0fY/zL_24g25O-gVtUKSAh7XEQ/view">here</a>
+
 <h3>Table of Contents</h3>
 <ul>
 <li>Features</li>
